@@ -1,18 +1,14 @@
-# decagon_etl
-Design the ETL workflow/pipeline with the Github data source to a PostgreSQL database. The database contains all continents, countries, currencies, and languages in different tables.
-
-
-# {My Data Engineer Test}
+###Title
 ETL workflow
 
 # Technologies Used
-* Python
-* SQL (PostgreSQL)
+Python
+SQL (PostgreSQL)
 
-# Description
-Designing the ETL workflow/pipeline with the Github data source to a PostgreSQL database. The database contains all continents, countries, currencies, and languages in different tables.
+#Description
+Design the ETL workflow/pipeline with the Github data source to a PostgreSQL database. The database contains all continents, countries, currencies, and languages in different tables.
 
-## Setup/Installation Requirements
+##Setup/Installation Requirements
 
 
 How to set up my databases?
