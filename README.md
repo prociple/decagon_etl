@@ -45,9 +45,16 @@ Contributions, issues and feature requests are welcome. Feel free to check issue
 
 # Author
 Andrew Ezeamama
-* Twitter:@prociple
+* Twitter:@prociple <a href="https://www.python.org" target="_blank" rel="noreferrer"></a
 * Github:@prociple
+                       <h6>Let us be social</h6>
+                            <a href="https://twitter.com/prociple" target="_blank" class="twitter">prociple<i class="bx bxl-twitter"></i></a>
+                            <a href="https://www.facebook.com/prociple" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="https://www.instagram.com/prociple_systems" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>                       
+                            <a href="https://www.linkedin.com/in/prociple-systems-ltd" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                            <a href="https://www.youtube.com/channel/UCR5ldNrsNbmVMY6vf_-cQoQ" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+                  
 
 # License
-Copyright C 2022 Andrew Ezeamama.
+Copyright  © 2022 Andrew Ezeamama. All rights reserved
 This project is MIT open-source licensed.
