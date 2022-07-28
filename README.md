@@ -2,20 +2,17 @@
 Design the ETL workflow/pipeline with the Github data source to a PostgreSQL database. The database contains all continents, countries, currencies, and languages in different tables.
 
 
-{My Data Engineer Test}
-
+# {My Data Engineer Test}
 ETL workflow
 
-Technologies Used
-
+# Technologies Used
 * Python
 * SQL (PostgreSQL)
 
-Description
-
+# Description
 Designing the ETL workflow/pipeline with the Github data source to a PostgreSQL database. The database contains all continents, countries, currencies, and languages in different tables.
 
-Setup/Installation Requirements
+## Setup/Installation Requirements
 
 
 How to set up my databases?
@@ -28,12 +25,12 @@ How to set up my databases?
 * port="5432"
 
 
-�Usage
+# # �Usage
 * Make sure you have�python installed (the version 3.9 or greater. Install psycopg2 library using pip install psycopg2 if not available by default)
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Code</h3>
 <p align="left">
 </p>
 
@@ -46,18 +43,18 @@ How to set up my databases?
 Re-cloning the project from GitHub repo
 
 
-�Contributing
+# �Contributing
 Contributions, issues and feature requests are welcome. Feel free to check issues page if you want to contribute.
 
 
-Known Bugs
+# Known Bugs
 * None
 
-Author
+# Author
 �Andrew Ezeamama
 * Twitter:�@prociple
 * Github:�@prociple
 
-�License
+# �License
 Copyright � 2022�Andrew Ezeamama.
 This project is�MIT�licensed.
