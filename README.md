@@ -48,12 +48,12 @@ Andrew Ezeamama
 
 <h6>Let us be social</h6>
 
-* Github:@prociple  <a href="https://github.com/prociple/" target="_blank"></a>
+* Github:@prociple  <a href="https://github.com/prociple/" target="_blank"></a><br>
 * LinkedIn:@andrew-ezeamama <a href="https://www.linkedin.com/in/andrew-ezeamama-pmp-7b87a024" target="_blank"></a>
 
 # Contact me
-Email: andrew.ezeamama@outlook.com
-Phone: +2347032030566
+* Email: andrew.ezeamama@outlook.com
+* Phone: +2347032030566
                   
 
 # License
