@@ -5,8 +5,8 @@ ETL workflow
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> Python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">SQL (PostgreSQL) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> Python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p><a href="https://www.python.org" target="_blank" rel="noreferrer">SQL (PostgreSQL) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 # Description
@@ -15,21 +15,21 @@ The database contains all continents, countries, currencies, and languages in di
 
 
 
-## Setup/Installation Requirements
+## Setup/Installation
 
-Create the database using the connection string
+Create the (remote or local) database using the connection string
 * database="decagon"
 * user="postgres"
 * password="XXXX"
 * host="localhost"
 * port="5432"
 
+Run the database.sql
 
 
-# Usage
+# Usage 
 * Make sure you have python installed (version 3.9 or greater).
 * Install psycopg2 library using pip install psycopg2 if not available by default)
-
 
 
 <h4 align="left">Re-cloning the project from GitHub repo</h4>https://github.com/prociple/decagon_etl.git
