@@ -1,4 +1,4 @@
-# # #Title
+# Title
 ETL workflow
 
 # Technologies Used
@@ -19,21 +19,15 @@ Create the database using the connection string
 * port="5432"
 
 
-# # Usage
+# Usage
 * Make sure you have�python installed (the version 3.9 or greater. Install psycopg2 library using pip install psycopg2 if not available by default)
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>```
-
-
-<h3 align="left">Re-cloning the project from GitHub repo</h3>
+<h3 align="left">Re-cloning the project from GitHub repo</h3>https://github.com/prociple/decagon_etl.git
 <p align="left">
-https://github.com/prociple/decagon_etl.git
-</p>
 
-Re-cloning the project from GitHub repo
+</p>
 
 
 # Contributing
