@@ -5,8 +5,8 @@ ETL workflow
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> Python<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-<p><a href="https://www.python.org" target="_blank" rel="noreferrer">SQL (PostgreSQL) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> Python </a> </p>
+<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> SQL (PostgreSQL)</p>
 
 
 # Description
