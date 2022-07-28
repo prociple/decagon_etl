@@ -28,7 +28,7 @@ Run the database.sql
 
 
 # Usage 
-* Make sure you have python installed (version 3.9 or greater).
+* Make sure you have python installed (version 3).
 * Install psycopg2 library using pip install psycopg2 if not available by default)
 
 
