@@ -45,11 +45,15 @@ Contributions, issues and feature requests are welcome. Feel free to check issue
 
 # Author
 Andrew Ezeamama
-<h6>Let us be social</h6>
-* Twitter:@prociple  <a href="https://twitter.com/prociple" target="_blank">
-* Github:@prociple  <a href="https://github.com/prociple/decagon_etl" target="_blank">
-* LinkedIn:@andrew-ezeamama <a href="https://www.linkedin.com/in/andrew-ezeamama-pmp-7b87a024" target="_blank">
 
+<h6>Let us be social</h6>
+
+* Github:@prociple  <a href="https://github.com/prociple/" target="_blank"></a>
+* LinkedIn:@andrew-ezeamama <a href="https://www.linkedin.com/in/andrew-ezeamama-pmp-7b87a024" target="_blank"></a>
+
+# Contact me
+Email: andrew.ezeamama@outlook.com
+Phone: +2347032030566
                   
 
 # License
