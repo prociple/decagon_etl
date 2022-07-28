@@ -2,12 +2,18 @@
 ETL workflow
 
 # Technologies Used
-Python
-SQL (PostgreSQL)
+
+
+<h3 align="left">Languages and Tools:</h3>
+Python<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+SQL (PostgreSQL)<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>```
+
 
 # Description
 Design the ETL workflow/pipeline with the Github data source: (https://github.com/annexare/Countries/tree/master/data) to a (remote or local) PostgreSQL database. 
 The database contains all continents, countries, currencies, and languages in different tables.
+
+
 
 ## Setup/Installation Requirements
 
@@ -18,9 +24,6 @@ Create the database using the connection string
 * host="localhost"
 * port="5432"
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>```
 
 
 # Usage
